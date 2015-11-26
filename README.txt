@@ -22,26 +22,26 @@ HOW TO START KANAWORDS
 
 HOW TO PRACTICE WITH KANAWORDS
 
-1) Swipe left to reveal a word in Kana, swipe right to reveal a work in english
+- Swipe left to reveal a word in Kana, swipe right to reveal a word in english
 
-2) Tap once to reveal the answer
+- Tap once to reveal the answer
 
-3) Every 5 words the background image with change
+- Every 5 words the background image will change
 
 
 
 HOW TO ADD WORDS
 
-1) You can add words in the 'Words' folder, each word is a separate file.
+- You can add words in the 'Words' folder, each word is a separate file.
 
-2) The file needs to be a text file with .txt extension
+- The file needs to be a text file with .txt extension
 
-3) The name of the file is the english word, ie. apple.txt will be the word "apple"
+- The name of the file is the english word, ie. apple.txt will be the word "apple"
 
-4) The contents of the text file should be the kana version of the word
+- The contents of the text file are the kana version of that word
 
 
 
 HOW TO ADD BACKGROUND IMAGES
 
-1) Add any JPEG image with .jpg extension to the 'Images' folder
+- Add any JPEG image with .jpg extension to the 'Images' folder
