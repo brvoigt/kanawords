@@ -2,7 +2,7 @@
 
 # app for practicing vocabulary in kana
 
-# Last update Nov 26, 2015
+# updated Nov 26, 2015
 # Ben Voigt
 
 
