@@ -1,5 +1,6 @@
 # kanawords
- - App for practicing vocabulary in kana
+
+# app for practicing vocabulary in kana
 
 # Last update Nov 26, 2015
 # Ben Voigt
