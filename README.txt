@@ -4,6 +4,7 @@
 
 # updated Nov 26, 2015
 # Ben Voigt
+# ben@derivative.ca
 
 
 
@@ -18,6 +19,10 @@ HOW TO START KANAWORDS
 
 3) Double-click kana.toe found inside th 'KanaWords' folder.
 
+4) If you have trouble running it
+	- Make sure your computer meets the System Requirements on the Download page.
+	- Make sure all Windows Updates are applied.
+
 
 
 HOW TO PRACTICE WITH KANAWORDS
@@ -27,6 +32,8 @@ HOW TO PRACTICE WITH KANAWORDS
 - Tap once to reveal the answer
 
 - Every 5 words the background image will change
+
+- To exit FULLSCREEN mode, press "Esc" key.  To enter FULLSCREEN mode, press "F1" key.
 
 
 
