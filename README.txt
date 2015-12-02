@@ -52,3 +52,7 @@ HOW TO ADD WORDS
 HOW TO ADD BACKGROUND IMAGES
 
 - Add any JPEG image with .jpg extension to the 'Images' folder
+
+
+
+Please report issues or feature requests in the Issues section of this repository.
