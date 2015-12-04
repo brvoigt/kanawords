@@ -23,6 +23,7 @@ HOW TO START KANAWORDS
 	- Make sure your computer meets the System Requirements on the Download page.
 	- Make sure all Windows Updates are applied.
 
+5) To quit, press "ctrl+q" keys.
 
 
 HOW TO PRACTICE WITH KANAWORDS
@@ -33,7 +34,7 @@ HOW TO PRACTICE WITH KANAWORDS
 
 - Every 5 words the background image will change
 
-- To exit FULLSCREEN mode, press "Esc" key.  To enter FULLSCREEN mode, press "F1" key.
+- To exit FULLSCREEN mode, press "alt+Esc" keys.  To quit, press "ctrl+q" keys.
 
 
 
