@@ -36,6 +36,8 @@ HOW TO PRACTICE WITH KANAWORDS
 
 - To exit FULLSCREEN mode, press "alt+Esc" keys.  To quit, press "ctrl+q" keys.
 
+- Press "F5" to open list to select different word folders.
+
 
 
 HOW TO ADD WORDS
