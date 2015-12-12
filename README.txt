@@ -34,9 +34,9 @@ HOW TO PRACTICE WITH KANAWORDS
 
 - Every 5 words the background image will change
 
-- To exit FULLSCREEN mode, press "alt+Esc" keys.  To quit, press "ctrl+q" keys.
+- To exit FULLSCREEN mode, press "alt+Esc" keys. To quit, press "ctrl+q" keys.
 
-- Press "F5" to open list to select different word folders.
+- Press "F5" to open list to select different word folders. Close list when done selection.
 
 
 
