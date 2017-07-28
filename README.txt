@@ -2,7 +2,7 @@
 
 # app for practicing vocabulary in kana
 
-# updated Nov 26, 2015
+# 
 # Ben Voigt
 # ben@derivative.ca
 
