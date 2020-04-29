@@ -15,7 +15,7 @@ HOW TO START KANAWORDS
 2) Install TouchDesigner following these steps
 	- Double-click the installer downloaded in step 1 above
 	- Check on "Custom install and TouchPlayer options"
-	- Check on all "TouchPlayer 088 options:" then click "Install"
+	- Check on all "TouchPlayer options:" then click "Install"
 
 3) Double-click kana.toe found inside th 'KanaWords' folder.
 
