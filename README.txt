@@ -10,7 +10,7 @@
 
 HOW TO START KANAWORDS
 
-1) Download TouchDesigner from https://www.derivative.ca/088/Downloads/
+1) Download TouchDesigner from https://www.derivative.ca/download
 
 2) Install TouchDesigner following these steps
 	- Double-click the installer downloaded in step 1 above
